@@ -1,0 +1,23 @@
+{
+  "name": "practicing-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TessTech/practicing-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TessTech/practicing-TypeScript/issues"
+  },
+  "homepage": "https://github.com/TessTech/practicing-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
